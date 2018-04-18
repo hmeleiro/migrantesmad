@@ -1,2 +1,2 @@
-# migrantesmad
-Mapa de la ciudad de Madrid que visualiza la tasa de inmigración por distrito y la nacionalidad más numerosa.
+# Mapa migrantes Madrid
+Mapa de la ciudad de Madrid que visualiza la tasa de inmigración por distrito y la nacionalidad más numerosa. Los datos están sacados del [banco de datos del Ayuntamiento de Madrid](http://www-2.munimadrid.es/CSE6/jsps/menuBancoDatos.jsp) y el mapa está hecho con el mapa está hecho con [QGIS](https://www.qgis.org/es/site/) y [qgis2web](https://plugins.qgis.org/plugins/qgis2web/).
